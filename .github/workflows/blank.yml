@@ -33,6 +33,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo View test.txt,
-          ls ~/runner/work/test/test/
+          ls ~/work/test/test/
           
           
