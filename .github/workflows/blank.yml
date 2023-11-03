@@ -34,6 +34,6 @@ jobs:
         run: |
           echo View test.txt,
           npm -v,          
-          cat ~/runner/work/test/test/test.txt
+          ls ~/runner/work/test/test/
           
           
