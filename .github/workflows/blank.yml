@@ -33,6 +33,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo View test.txt,
-          node --version,
+          node -v,
+          
           cat ~/ruunner/work/test/test/test.txt
           
